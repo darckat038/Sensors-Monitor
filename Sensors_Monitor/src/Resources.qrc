@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Sensors/tempSensorIcon.svg</file>
+        <file>icons/Sensors/magnetSensorIcon.svg</file>
+        <file>icons/Sensors/humidSensorIcon.svg</file>
+        <file>icons/windowIcon.svg</file>
+        <file>icons/Buttons/Toolbar/openFileIcon.svg</file>
+        <file>icons/Buttons/Toolbar/saveFileAsIcon.svg</file>
+        <file>icons/Buttons/Toolbar/saveFileIcon.svg</file>
+    </qresource>
+</RCC>
